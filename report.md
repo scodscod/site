@@ -567,3 +567,8 @@ img {
 }
 ```
 ### Приложение 7. Вид страниц сайта
+![Скриншот главной страницы](screenshots/indexshot.png)
+![Скриншот страницы "О проекте"](screenshots/aboutshot.png)
+![Скриншот страницы участников](screenshots/participantsshot.png)
+![Скриншот журнала](screenshots/logshot.png)
+![Скриншот страницы с ресурсами](screenshots/resourcesshot.png)
